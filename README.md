@@ -23,9 +23,9 @@ I'm participating in the 99 Days of Problem Solving Challenge where we will be s
 
 ## Problems
 
-| Day | Problem                                                                      | Solution                                                                                 |
-|-----|------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-| 1   | [A. Arrival of the General](https://codeforces.com/problemset/problem/144/A) | [Solution](https://github.com/fardinkamal62/DIU-CPC-99-days-of-problem-solving/day-1.go) |
+| Day | Problem                                                                      | Solution                                                                                             |
+|-----|------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| 1   | [A. Arrival of the General](https://codeforces.com/problemset/problem/144/A) | [Solution](https://github.com/fardinkamal62/DIU-CPC-99-days-of-problem-solving/blob/main/day-1.go) |
 
 
 ## Important Links
