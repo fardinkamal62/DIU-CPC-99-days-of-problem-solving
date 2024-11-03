@@ -14,7 +14,7 @@ I'm participating in the 99 Days of Problem Solving Challenge where we will be s
 
 
 ## Progress
-**Streak:** 2 day
+**Streak:** 3 day
 
 **Start Date:** 1st November, 2024
 
@@ -27,7 +27,7 @@ I'm participating in the 99 Days of Problem Solving Challenge where we will be s
 |-----|------------------------------------------------------------------------------|------------------------|
 | 1   | [A. Arrival of the General](https://codeforces.com/problemset/problem/144/A) | [Solution](./day-1.go) |
 | 2   | [B. Xenia and Ringroad](https://codeforces.com/problemset/problem/339/B)     | [Solution](./day-2.go) |
-
+| 3   | [B. Vanya and Lanterns](https://codeforces.com/problemset/problem/492/B)     | [Solution](./day-3.go) |
 
 ## Important Links
 
