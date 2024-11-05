@@ -6,6 +6,9 @@ func main() {
 	problemList := []string{
 		"Day-1: Arrival of the General (https://codeforces.com/problemset/problem/144/A)",
 		"Day-2: Xenia and Ringroad (https://codeforces.com/problemset/problem/339/B)",
+		"Day-3: Vanya and Lanterns (https://codeforces.com/problemset/problem/492/B)",
+		"Day-4: Sum of Round Numbers (https://codeforces.com/problemset/problem/1352/A)",
+		"Day-5: Theatre Square (https://codeforces.com/problemset/problem/1/A)",
 	}
 
 	fmt.Println("Hello! Welcome to my solutions of DIU CPC 99 Days of Problem Solving")
@@ -15,6 +18,4 @@ func main() {
 	for _, problem := range problemList {
 		fmt.Println(problem)
 	}
-
-	day1()
 }
