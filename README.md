@@ -14,7 +14,7 @@ I'm participating in the 99 Days of Problem Solving Challenge where we will be s
 
 
 ## Progress
-**Streak:** 4 day
+**Streak:** 5 day
 
 **Start Date:** 1st November, 2024
 
@@ -29,6 +29,7 @@ I'm participating in the 99 Days of Problem Solving Challenge where we will be s
 | 2   | [B. Xenia and Ringroad](https://codeforces.com/problemset/problem/339/B)     | [Solution](./day-2.go) |
 | 3   | [B. Vanya and Lanterns](https://codeforces.com/problemset/problem/492/B)     | [Solution](./day-3.go) |
 | 4   | [A. Sum of Round Numbers](https://codeforces.com/problemset/problem/1352/A)  | [Solution](./day-4.go) |
+| 5   | [A. Theatre Square](https://codeforces.com/problemset/problem/1/A)           | [Solution](./day-5.go) |
 
 
 ## Important Links
