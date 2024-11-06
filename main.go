@@ -9,6 +9,7 @@ func main() {
 		"Day-3: Vanya and Lanterns (https://codeforces.com/problemset/problem/492/B)",
 		"Day-4: Sum of Round Numbers (https://codeforces.com/problemset/problem/1352/A)",
 		"Day-5: Theatre Square (https://codeforces.com/problemset/problem/1/A)",
+		"Day-6: Fair Division (https://codeforces.com/problemset/problem/1472/B)",
 	}
 
 	fmt.Println("Hello! Welcome to my solutions of DIU CPC 99 Days of Problem Solving")
