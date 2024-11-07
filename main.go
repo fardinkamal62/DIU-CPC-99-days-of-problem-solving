@@ -10,7 +10,7 @@ func main() {
 		"Day-4: Sum of Round Numbers (https://codeforces.com/problemset/problem/1352/A)",
 		"Day-5: Theatre Square (https://codeforces.com/problemset/problem/1/A)",
 		"Day-6: Fair Division (https://codeforces.com/problemset/problem/1472/B)",
-	}
+		"Day-7: Multiplication Dilemma (https://codeforces.com/problemset/gymProblem/101972/A)"}
 
 	fmt.Println("Hello! Welcome to my solutions of DIU CPC 99 Days of Problem Solving")
 	fmt.Printf("\nDays completed: %d\n", len(problemList))
