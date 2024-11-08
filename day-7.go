@@ -6,7 +6,10 @@ import (
 	"os"
 )
 
-// A. Multiplication Dilemma (https://codeforces.com/problemset/gymProblem/101972/A) | Difficulty: 800
+// A. Multiplication Dilemma (https://codeforces.com/problemset/gymProblem/101972/A)
+// Gym Problem (https://codeforces.com/gym/101972)
+// Time: 62ms
+// Memory: 600KB
 
 func main() {
 	reader := bufio.NewReader(os.Stdin)
