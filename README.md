@@ -33,6 +33,7 @@ I'm participating in the 99 Days of Problem Solving Challenge where we will be s
 | 6   | [B. Fair Division](https://codeforces.com/problemset/problem/1472/B)               | [Solution](./day-6.go) |
 | 7   | [A. Multiplication Dilemma](https://codeforces.com/problemset/gymProblem/101972/A) | [Solution](./day-7.go) |
 | 8   | [Cyclic Shift](https://codeforces.com/gym/101972/problem/K)                        | [Solution](./day-8.go) |
+| 9   | [A. Marathon](https://codeforces.com/problemset/problem/1692/A)                    | [Solution](./day-9.go) |
 
 
 ## Important Links
