@@ -13,6 +13,7 @@ func main() {
 		"Day-7: Multiplication Dilemma (https://codeforces.com/problemset/gymProblem/101972/A)",
 		"Day-8: Cyclic Shift (https://codeforces.com/gym/101972/problem/K)",
 		"Day-9: Marathon (https://codeforces.com/problemset/problem/1692/A)",
+		"Day-10: Lucky? (https://codeforces.com/problemset/problem/1676/A)",
 	}
 
 	fmt.Println("Hello! Welcome to my solutions of DIU CPC 99 Days of Problem Solving")
