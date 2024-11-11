@@ -14,7 +14,7 @@ I'm participating in the 99 Days of Problem Solving Challenge where we will be s
 
 
 ## Progress
-**Streak:** 8 day
+**Streak:** 11 day
 
 **Start Date:** 1st November, 2024
 
@@ -35,6 +35,7 @@ I'm participating in the 99 Days of Problem Solving Challenge where we will be s
 | 8   | [Cyclic Shift](https://codeforces.com/gym/101972/problem/K)                        | [Solution](./day-8.go)  |
 | 9   | [A. Marathon](https://codeforces.com/problemset/problem/1692/A)                    | [Solution](./day-9.go)  |
 | 10  | [A. Lucky?](https://codeforces.com/problemset/problem/1676/A)                      | [Solution](./day-10.go) |
+| 11  | [A. Quintomania](https://codeforces.com/problemset/problem/2036/A)                 | [Solution](./day-11.go) |
 
 
 ## Important Links
