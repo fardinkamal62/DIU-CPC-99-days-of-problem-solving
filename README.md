@@ -36,7 +36,7 @@ I'm participating in the 99 Days of Problem Solving Challenge where we will be s
 | 9   | [A. Marathon](https://codeforces.com/problemset/problem/1692/A)                    | [Solution](./day-9.go)  |
 | 10  | [A. Lucky?](https://codeforces.com/problemset/problem/1676/A)                      | [Solution](./day-10.go) |
 | 11  | [A. Quintomania](https://codeforces.com/problemset/problem/2036/A)                 | [Solution](./day-11.go) |
-
+| 12  | [B. Startup](https://codeforces.com/problemset/problem/2036/B)                     | [Solution](./day-12.go) |
 
 ## Important Links
 
