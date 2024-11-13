@@ -16,6 +16,7 @@ func main() {
 		"Day-10: Lucky? (https://codeforces.com/problemset/problem/1676/A)",
 		"Day-11: Quintomania (https://codeforces.com/problemset/problem/2036/A)",
 		"Day-12: Startup (https://codeforces.com/problemset/problem/2036/B)",
+		"Day-13: A. Alice's Adventures in Chess (https://codeforces.com/problemset/problem/2028/A)",
 	}
 
 	fmt.Println("Hello! Welcome to my solutions of DIU CPC 99 Days of Problem Solving")
