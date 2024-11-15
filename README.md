@@ -38,6 +38,7 @@ I'm participating in the 99 Days of Problem Solving Challenge where we will be s
 | 11  | [A. Quintomania](https://codeforces.com/problemset/problem/2036/A)                 | [Solution](./day-11.go) |
 | 12  | [B. Startup](https://codeforces.com/problemset/problem/2036/B)                     | [Solution](./day-12.go) |
 | 13  | [A. Alice's Adventures in Chess](https://codeforces.com/problemset/problem/2028/A) | [Solution](./day-13.go) |
+| 14  | [B. Everyone Loves Tres](https://codeforces.com/problemset/problem/2035/B)         | [Solution](./day-14.go) |
 
 ## Important Links
 
