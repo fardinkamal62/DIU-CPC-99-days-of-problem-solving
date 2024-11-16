@@ -40,6 +40,7 @@ I'm participating in the 99 Days of Problem Solving Challenge where we will be s
 | 13  | [A. Alice's Adventures in Chess](https://codeforces.com/problemset/problem/2028/A)  | [Solution](./day-13.go) |
 | 14  | [B. Everyone Loves Tres](https://codeforces.com/problemset/problem/2035/B)          | [Solution](./day-14.go) |
 | 15  | [A. Penchick and Modern Monument](https://codeforces.com/problemset/problem/2031/A) | [Solution](./day-15.go) |
+ | 16  | [A. Sakurako and Kosuke(https://codeforces.com/problemset/problem/2033/A)]          | [Solution](./day-16.go) |
 
 ## Important Links
 

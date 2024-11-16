@@ -19,6 +19,7 @@ func main() {
 		"Day-13: A. Alice's Adventures in Chess (https://codeforces.com/problemset/problem/2028/A)",
 		"Day-14: B. Everyone Loves Tres (https://codeforces.com/problemset/problem/2035/B)",
 		"Day-15: A. Penchick and Modern Monument (https://codeforces.com/problemset/problem/2031/A)",
+		"Day-16: A. Sakurako and Kosuke (https://codeforces.com/problemset/problem/2033/A)",
 	}
 
 	fmt.Println("Hello! Welcome to my solutions of DIU CPC 99 Days of Problem Solving")
