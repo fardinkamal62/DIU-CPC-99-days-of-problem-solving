@@ -42,7 +42,7 @@ I'm participating in the 99 Days of Problem Solving Challenge where we will be s
 | 15  | [A. Penchick and Modern Monument](https://codeforces.com/problemset/problem/2031/A) | [Solution](./day-15.go) |
 | 16  | [A. Sakurako and Kosuke](https://codeforces.com/problemset/problem/2033/A)          | [Solution](./day-16.go) |
 | 17  | [A. Twice](https://codeforces.com/problemset/problem/2037/A)                        | [Solution](./day-17.go) |
-
+| 18  | [B. Intercepted Inputs](https://codeforces.com/problemset/problem/2037/B)           | [Solution](./day-18.go) |
 ## Important Links
 
 - [Codeforces Profile](https://codeforces.com/profile/fardinkamal62)
