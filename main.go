@@ -23,6 +23,7 @@ func main() {
 		"Day-17: A. Twice (https://codeforces.com/problemset/problem/2037/A)",
 		"Day-18: B. Intercepted Inputs (https://codeforces.com/problemset/problem/2037/B)",
 		"Day-19: A. Polycarp and Sums of Subsequences (https://codeforces.com/contest/1618/problem/A)",
+		"Day-20: C. Superultra's Favourite Permutation (https://codeforces.com/contest/2037/problem/C)",
 	}
 
 	fmt.Println("Hello! Welcome to my solutions of DIU CPC 99 Days of Problem Solving")
