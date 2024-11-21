@@ -45,6 +45,7 @@ I'm participating in the 99 Days of Problem Solving Challenge where we will be s
 | 18  | [B. Intercepted Inputs](https://codeforces.com/problemset/problem/2037/B)              | [Solution](./day-18.go) |
 | 19  | [A. Polycarp and Sums of Subsequences](https://codeforces.com/contest/1618/problem/A)  | [Solution](./day-19.go) |
 | 20  | [C. Superultra's Favourite Permutation](https://codeforces.com/contest/2037/problem/C) | [Solution](./day-20.go) |
+| 21  | [N. Fixing the Expression](https://codeforces.com/problemset/problem/2038/N)           | [Solution](./day-21.go) |
 
 ## Important Links
 
