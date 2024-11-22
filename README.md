@@ -14,7 +14,7 @@ I'm participating in the 99 Days of Problem Solving Challenge where we will be s
 
 
 ## Progress
-**Streak:** 11 day
+**Streak:** 22 day
 
 **Start Date:** 1st November, 2024
 
@@ -46,6 +46,7 @@ I'm participating in the 99 Days of Problem Solving Challenge where we will be s
 | 19  | [A. Polycarp and Sums of Subsequences](https://codeforces.com/contest/1618/problem/A)  | [Solution](./day-19.go) |
 | 20  | [C. Superultra's Favourite Permutation](https://codeforces.com/contest/2037/problem/C) | [Solution](./day-20.go) |
 | 21  | [N. Fixing the Expression](https://codeforces.com/problemset/problem/2038/N)           | [Solution](./day-21.go) |
+| 22  | [A. Remove Smallest](https://codeforces.com/problemset/problem/1399/A)                 | [Solution](./day-22.go) |
 
 ## Important Links
 
