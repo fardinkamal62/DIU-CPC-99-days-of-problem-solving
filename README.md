@@ -47,6 +47,7 @@ I'm participating in the 99 Days of Problem Solving Challenge where we will be s
 | 20  | [C. Superultra's Favourite Permutation](https://codeforces.com/contest/2037/problem/C) | [Solution](./day-20.go) |
 | 21  | [N. Fixing the Expression](https://codeforces.com/problemset/problem/2038/N)           | [Solution](./day-21.go) |
 | 22  | [A. Remove Smallest](https://codeforces.com/problemset/problem/1399/A)                 | [Solution](./day-22.go) |
+| 23  | [J. Waiting for...](https://codeforces.com/problemset/problem/2038/J)                  | [Solution](./day-23.go) |
 
 ## Important Links
 
