@@ -27,6 +27,7 @@ func main() {
 		"Day-21: N. Fixing the Expression (https://codeforces.com/problemset/problem/2038/N)",
 		"Day-22: A. Remove Smallest (https://codeforces.com/problemset/problem/1399/A)",
 		"Day-23: J. Waiting for... (https://codeforces.com/problemset/problem/2038/J)",
+		"Day-24: Shohag Loves XOR (Easy Version) (https://codeforces.com/contest/2039/problem/C1)",
 	}
 
 	fmt.Println("Hello! Welcome to my solutions of DIU CPC 99 Days of Problem Solving")
