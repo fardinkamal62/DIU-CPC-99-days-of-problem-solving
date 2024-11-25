@@ -49,6 +49,7 @@ I'm participating in the 99 Days of Problem Solving Challenge where we will be s
 | 22  | [A. Remove Smallest](https://codeforces.com/problemset/problem/1399/A)                                  | [Solution](./day-22.go) |
 | 23  | [J. Waiting for...](https://codeforces.com/problemset/problem/2038/J)                                   | [Solution](./day-23.go) |
 | 24  | [2039C1 - Shohag Loves XOR Easy Version (Easy Version)](https://codeforces.com/contest/2039/problem/C1) | [Solution](./day-24.go) |
+| 25  | [A. The Bento Box Adventure](https://codeforces.com/problemset/problem/2041/A)                          | [Solution](./day-25.go) |
 
 ## Important Links
 
