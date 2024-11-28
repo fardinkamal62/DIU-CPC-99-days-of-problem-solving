@@ -14,7 +14,7 @@ I'm participating in the 99 Days of Problem Solving Challenge where we will be s
 
 
 ## Progress
-**Streak:** 27 day
+**Streak:** 28 day
 
 **Start Date:** 1st November, 2024
 
@@ -52,6 +52,7 @@ I'm participating in the 99 Days of Problem Solving Challenge where we will be s
 | 25  | [A. The Bento Box Adventure](https://codeforces.com/problemset/problem/2041/A)                          | [Solution](./day-25.go) |
 | 26  | [A. Circuit](https://codeforces.com/problemset/problem/2032/A)                                          | [Solution](./day-26.go) |
 | 27  | [A. Shohag Loves Mod](https://codeforces.com/problemset/problem/2039/A)                                 | [Solution](./day-27.go) |
+| 28  | [A. Sliding](https://codeforces.com/problemset/problem/2035/A)                                          | [Solution](./day-28.go) |
 
 ## Important Links
 

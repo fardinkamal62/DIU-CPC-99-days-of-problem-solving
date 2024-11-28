@@ -31,6 +31,7 @@ func main() {
 		"Day-25: A. The Bento Box Adventure (https://codeforces.com/problemset/problem/2041/A)",
 		"Day-26: A. Circuit (https://codeforces.com/problemset/problem/2032/A)",
 		"Day-27: A. Shohag Loves Mod (https://codeforces.com/problemset/problem/2039/A)",
+		"Day-28: A. Sliding (https://codeforces.com/problemset/problem/2035/A)",
 	}
 
 	fmt.Println("Hello! Welcome to my solutions of DIU CPC 99 Days of Problem Solving")
